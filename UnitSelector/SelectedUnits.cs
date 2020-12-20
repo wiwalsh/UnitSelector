@@ -9,7 +9,6 @@ namespace UnitsSelector
 {
     public class SelectedUnits
     {
-        //public DataTable DataTable;
         public BindingList<BindingList<UnitListItem>> UnitsList { get; set; }
         public BindingList<QuantityType> QuantityTypes { get; set; }
         public BindingList<int> SelectedUnitIndex { get; set; }

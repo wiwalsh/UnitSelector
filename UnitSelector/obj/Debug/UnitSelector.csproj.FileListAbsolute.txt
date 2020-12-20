@@ -1,0 +1,16 @@
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\UnitsSelector.exe.config
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\UnitsSelector.exe
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\UnitsSelector.pdb
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\System.ValueTuple.dll
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\UnitsNet.dll
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\System.ValueTuple.xml
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\UnitsNet.pdb
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\bin\Debug\UnitsNet.xml
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitSelector.csprojAssemblyReference.cache
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitsSelector.Form1.resources
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitsSelector.Properties.Resources.resources
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitSelector.csproj.GenerateResource.cache
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitSelector.csproj.CoreCompileInputs.cache
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitSelector.csproj.CopyComplete
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitsSelector.exe
+C:\Users\swalsh.TURBOWORKS.000\Documents\GitHub\UnitSelector\UnitSelector\obj\Debug\UnitsSelector.pdb
