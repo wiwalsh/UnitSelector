@@ -1,0 +1,16 @@
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\TestUnitsSelector.exe.config
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\TestUnitsSelector.exe
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\TestUnitsSelector.pdb
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\System.ValueTuple.dll
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\UnitsNet.dll
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\System.ValueTuple.xml
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\UnitsNet.pdb
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\bin\Debug\UnitsNet.xml
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.csprojAssemblyReference.cache
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.Properties.Resources.resources
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.csproj.GenerateResource.cache
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.csproj.CoreCompileInputs.cache
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.csproj.CopyComplete
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.exe
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.pdb
+C:\Users\swalsh.TURBOWORKS.000\source\repos\TestUnitsSelector\TestUnitsSelector\obj\Debug\TestUnitsSelector.Form1.resources
